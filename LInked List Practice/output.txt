@@ -1,0 +1,6 @@
+
+Original List: 
+Your Linked List: [1->4->6->7->9->10]
+
+After Deleting Even Numbers: 
+Your Linked List: [1->7->9]
